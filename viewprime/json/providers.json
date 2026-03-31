@@ -1,4 +1,10 @@
 {
+  "yflix": { "url": "https://yflix.to" },
+  "yflix_encode": { "url": "https://your-encode-api-endpoint" },
+  "yflix_decode": { "url": "https://your-decode-api-endpoint" },
+  "megaup_decode": { "url": "https://your-megaup-decode-endpoint" },
+  "watch32": { "url": "https://watch32.sx" },
+  "topstreamfilm": { "url": "https://www.topstreamfilm.live" },
   "Moviesmod": {
     "name": "Moviesmod",
     "url": "https://moviesmod.blue/"
