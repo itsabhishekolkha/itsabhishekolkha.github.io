@@ -1,44 +1,35 @@
 {
-  "yflix": { "url": "https://yflix.to" },
-  "yflix_encode": { "url": "https://your-encode-api-endpoint" },
-  "yflix_decode": { "url": "https://your-decode-api-endpoint" },
-  "megaup_decode": { "url": "https://your-megaup-decode-endpoint" },
   "watch32": { "url": "https://watch32.sx" },
   "topstreamfilm": { "url": "https://www.topstreamfilm.live" },
-  "Moviesmod": {
-    "name": "Moviesmod",
-    "url": "https://moviesmod.blue/"
-  },
-  "UHDMovies": {
-    "name": "UHDMovies",
-    "url": "https://uhdmovies.ink/"
-  },
-  "drive": {
-    "name": "moviesDrive",
-    "url": "https://new1.moviesdrives.my/"
-  },
-  "hdhub": {
-    "name": "hdhub4u",
-    "url": "https://new5.hdhub4u.fo/"
-  },
-  "4kHDHub": {
-    "name": "4kHDHub",
-    "url": "https://4khdhub.dad/"
-  },
-  "DesiReMovies": {
-    "name": "DesiReMovies",
-    "url": "https://1desiremovies.tel/"
-  },
-  "zinkmovies": {
-    "name": "zinkmovies",
-    "url": "https://new5.zinkmovies.me/"
-  },
-  "filmyclub": {
-    "name": "filmyclub",
-    "url": "https://1filmyfly.top/"
-  },
-  "animesalt": {
-    "name": "animesalt",
-    "url": "https://animesalt.ac/"
-  }
+  "moviesmod": { "name": "Moviesmod", "url": "https://moviesmod.blue" },
+  "uhdmovies": { "name": "UHDMovies", "url": "https://uhdmovies.ink" },
+  "drive": { "name": "moviesDrive", "url": "https://new1.moviesdrives.my" },
+  "hdhub4u": { "name": "hdhub4u", "url": "https://new5.hdhub4u.fo" },
+  "4khdhub": { "name": "4kHDHub", "url": "https://4khdhub.dad" },
+  "desiremovies": { "name": "DesiReMovies", "url": "https://1desiremovies.tel" },
+  "zinkmovies": { "name": "zinkmovies", "url": "https://new5.zinkmovies.me" },
+  "filmyclub": { "name": "filmyclub", "url": "https://1filmyfly.top" },
+  "animesalt": { "name": "animesalt", "url": "https://animesalt.ac" },
+  "allwish": { "name": "AllWish", "url": "https://all-wish.me" },
+  "animepahe": { "name": "Animepahe", "url": "https://animepahe.com" },
+  "animepahe_proxy": { "name": "AnimepaheProxy", "url": "https://animepaheproxy.phisheranimepahe.workers.dev/?url=" },
+  "bollyzone": { "name": "Bollyzone", "url": "https://www.bollyzone.to" },
+  "bollyzone_proxy": { "name": "BollyzoneProxy", "url": "https://desicinemas.phisherdesicinema.workers.dev" },
+  "desicinemas": { "name": "Desicinemas", "url": "https://desicinemas.to" },
+  "desicinemas_proxy": { "name": "DesicinemasProxy", "url": "https://desicinemas.phisherdesicinema.workers.dev" },
+  "desiserials": { "name": "DesiSerials", "url": "https://www.desi-serials.to" },
+  "filmyfiy": { "name": "Filmyfiy", "url": "https://new2.filmyfiy.org" },
+  "hubcloud": { "name": "HubCloud", "url": "https://hubcloud.art" },
+  "goldenaudiobook": { "name": "GoldenAudiobook", "url": "https://goldenaudiobook.net" },
+  "HDHUB4u": { "name": "Hdhub4u", "url": "https://hdhub4u.rehab" },
+  "hdmovie2": { "name": "Hdmovie2", "url": "https://hdmovie2.qpon" },
+  "kickassanime": { "name": "KickassAnime", "url": "https://kaa.lt" },
+  "movies4u": { "name": "Movies4u", "url": "https://movies4u.kitchen" },
+  "multimovies": { "name": "MultiMovies", "url": "https://multimovies.autos" },
+  "piratexplay": { "name": "Piratexplay", "url": "https://piratexplay.cc" },
+  "yflix": { "name": "YFlix", "url": "https://yflix.to" },
+  "sflix": { "name": "SFlix", "url": "https://sflix.to" },
+  "1movies": { "name": "1Movies", "url": "https://1movies.ac" },
+  "solarmovie": { "name": "SolarMovie", "url": "https://solarmovie.pe" },
+  "movhub": { "name": "Movhub", "url": "https://movhub.to" }
 }
