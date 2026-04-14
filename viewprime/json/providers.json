@@ -1,6 +1,10 @@
 {
   "watch32": { "url": "https://watch32.sx" },
   "topstreamfilm": { "url": "https://www.topstreamfilm.live" },
+  "streamingcommunity": { "name": "StreamingCommunity", "url": "https://streamingunity.biz/" },
+  "guardaserie": { "url": "https://guarda-serie.ovh" },
+  "arte": { "url": "https://www.arte.tv" },
+  "animesaturn": { "url": "https://www.animesaturn.cx" },
   "moviesmod": { "name": "Moviesmod", "url": "https://moviesmod.blue" },
   "uhdmovies": { "name": "UHDMovies", "url": "https://uhdmovies.ink" },
   "drive": { "name": "moviesDrive", "url": "https://new1.moviesdrives.my" },
@@ -31,5 +35,7 @@
   "sflix": { "name": "SFlix", "url": "https://sflix.to" },
   "1movies": { "name": "1Movies", "url": "https://1movies.ac" },
   "solarmovie": { "name": "SolarMovie", "url": "https://solarmovie.pe" },
+  "wecima": { "url": "https://wecima.ac" },
+  "tuktukhd": { "name": "TukTukcima", "url": "https://tuktukhd.com" },
   "movhub": { "name": "Movhub", "url": "https://movhub.to" }
 }
