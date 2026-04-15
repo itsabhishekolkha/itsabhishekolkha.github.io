@@ -39,5 +39,6 @@
   "tuktukhd": { "name": "TukTukcima", "url": "https://tuktukhd.com" },
   "topcinema": { "name": "topcinema", "url": "https://topcinemaa.com" },
   "akwam": { "name": "Akwam", "url": "https://ak.sv" },
+  "pelispedia": { "name": "Pelispedia", "url": "https://pelispedia.is" },
   "movhub": { "name": "Movhub", "url": "https://movhub.to" }
 }
