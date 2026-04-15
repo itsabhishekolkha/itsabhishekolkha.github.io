@@ -37,5 +37,7 @@
   "solarmovie": { "name": "SolarMovie", "url": "https://solarmovie.pe" },
   "wecima": { "url": "https://wecima.ac" },
   "tuktukhd": { "name": "TukTukcima", "url": "https://tuktukhd.com" },
+  "topcinema": { "name": "topcinema", "url": "https://topcinemaa.com" },
+  "akwam": { "name": "Akwam", "url": "https://ak.sv" },
   "movhub": { "name": "Movhub", "url": "https://movhub.to" }
 }
